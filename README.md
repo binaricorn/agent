@@ -32,3 +32,15 @@
 > On Wednesday afternoon, two days into the exercise, different groups visited specific sites in the city that were loose anchors for the proposals they would later put forward. Then everyone gathered back at Kiefer. The fellows began to process what exactly they were there for. Was five days enough to really understand Detroit? What would these ideas be used for? How do outsiders not insult their hosts? “A lot can come out of this,” said artist and activist Halima Cassells, one of the Detroit mentors there to help guide the groups. “But we have to explore our own bias, our own privilege, our own sense of normal. Question everything.” (In that moment, I remembered that Detroiters were not characters in a story for me to write and then leave. Their thoughts are not a resource to be mined. They are real people with real struggles that will go on long after we’ve all left.)
 
 * [IDEAS City Detroit | New Museum staff and Detroit residents, specifically address the abandoned Herman Kiefer Hospital](https://docs.google.com/document/d/1ksfCsNEDgBEaVJzWKgFsdTdpz3BFNxWVb1PVsUOYvAU/edit)
+
+Recommendations that adress the mechanisms of accountability:
+
+> Acknowledge and uplift the history of this city as Anishinaabe indigenous people’s land; the largest majority Black city in the nation with a long legacy of African Diasporic global contributions; and the specific history of this building and its relevance as a hospital for infectious disease, and as the hall of records for Detroiters- now closed as a symbol of the displacement and erasure of many generations’ history from this city at the beginning of the conference. 
+
+> Agree to hold conversation about the trend of community member criminalization, state violence, security and policing plans as related to this conference and this development as it proceeds; prioritizing security strategies that proactively de-escalate rather than perpetuate state and private “security” violence.
+
+> Within each session: facilitate a process for detailed note-taking with attribution to the authors for ideas generated and make this documentation available to all participants (as a way to create transparency and prevent cooptation of ideas).
+Agree to support ongoing conversations between between the city government agencies and private foundations that support IDEAS City and Detroit grassroots organizations, artists, and residents.
+
+> Agree to support Community Benefits Agreement work that leads to a legally binding contract giving community a voice; specifically between the city, local businesses and resident associations surrounding the Herman Kiefer Health Complex, such as West Grand Blvd. Collaborative and others likely to be most impacted by development, with Castellano Studios and any other interested parties.
+With the goal of addressing local economic challenges and creating positive change through the 5-day conference, IDEAS CITY Detroit has the opportunity to support a more locally based, self-sustaining economy.
