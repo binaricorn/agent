@@ -19,6 +19,10 @@
 
 * [Sick Woman Theory | Johanna Hedva on Mask Magazine](http://www.maskmagazine.com/not-again/struggle/sick-woman-theory "Johanna Hedva on Mask Magazine")
 
+What does nihilism and presentism have to do with all this?
+
+* [In the Dust of This Planet | Eugene Thackera featured on Radiolab](http://www.radiolab.org/story/dust-planet/)
+
 ### Experiments in planning
 
 #### IDEAS City Detroit
