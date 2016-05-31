@@ -1,4 +1,17 @@
-# Agent materials
+# Challenge of making work that's bigger than yourself
+
+After Francis and I spent a month making the [HOSNY](https://medium.com/dbrs-innovation-labs/humans-of-simulated-new-york-56f73ec1b0b3#.t37fi0g4q) project, "a participative agent-based economic simulation for speculating alternative economies", and decided to open up the simulation tools he made for the project to become a larger toolset and applying to the NEW Inc residency with it, I've come to realize that my inability to explain many parts of our project to be something we can leverage to make the project better.
+
+To understand relationships in the world is to have a stake in it, to have a relationship with it. 
+
+As you can see from my previous work and my perspective and preferred outcomes when I approach the project, I design for small scale interventions. How can I incorporate systems thinking into my work so I can make better things? Help people do the same?
+
+### HOSNY 2.0?
+* Douglas Rushkoff writes in [Present Shock: When Everything Happens Now](http://www.rushkoff.com/books/present-shock/) about the Occupy movement:
+
+>The approach is unwieldy and unpredictable but oddly consistent with the values of a postnarrative landscape. The Occupy ethos concerns replacing the zero-sum, closed-ended game of financial competition with a more sustainable, open-ended game of abundance and mutual aid. In the traditional political narrative, this sounds like communism, but to the Occupiers, it is a realization of the peer-to-peer sensibility of the social net. It is not a game that someone wins, but rather a form of play that -- like a massive multiplayer online game -- is successful the more people get to play, and the longer the game is kept going.  
+
+Can the process of using simulations as "speculating alterative worlds" idea, mimic or create the opportunity for better dialogue or conflict resolution? Is a simulation tool a "postnarrative" tool, and is that necessarily a bad thing?
 
 ### Reading
 
