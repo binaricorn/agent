@@ -13,6 +13,27 @@ As you can see from my previous work and my perspective and preferred outcomes w
 
 Can the process of using simulations as "speculating alterative worlds" idea, mimic or create the opportunity for better dialogue or conflict resolution? Is a simulation tool a "postnarrative" tool, and is that necessarily a bad thing?
 
+* Linear storytelling vs Emergent narrative | Narrow vs wide possibility space
+
+* Simulating real life
+[HOW WILL WRIGHT IS TURNING YOUR LIFE INTO HIS NEXT SIMULATION | Brian Crecente on Polygon](http://www.polygon.com/features/2015/5/7/8564891/will-wright-sim-city-the-sims-spore)
+
+>"In some sense, Thred feels to me like taking The Sims into real life. We are able to quantify your life now to a point that didn't used to exist. The Sims have these quantities about how hungry I am, tired, bored, etc and we simulate their little lives in there. Here you are living your real life and we are actually collecting data about your life and recording it. Right now we just have a few data feeds, but as we get into wearables and all of these other things, we're going to have lots and lots of data about your every single day.
+
+"You will be quantified far more than any sim ever was, which is why I think it is really a rich platform for gaming."
+
+That initial taste of gaming comes from branching. Wright tells me that people are already playing around with simple versions of pick-your-own-adventure games in Thred, creating branching stories driven by reader choice.
+
+And then Wright gets a little scary, a little Minority Report about the potential future of this, his latest creation.
+
+"One of the directions I'm very interested in down the road — and again this is like a platform — is right now we are recording what you do day after day after day," Wright says. "I think once we learn enough about the players, the users, we'll be in a place to possibly start predicting what is going to happen to you next week or two weeks from now and telling stories about that, branching stories."
+
+I'm confused: "So tell your future story?"
+
+"Yeah, well, in a branching format, these are branches your life could take," Wright says. "In some sense, you have a branching tree of things you might be doing today, tomorrow, next week, and you can turn that into exploration. There can be a leaf in that tree that you can choose to find.
+
+"The stream I'm describing right now is created by looking at your data,  your behavior, what we've seen you do, and using that to, in some sense, create a sim of you. This is who we think you are, what you're interested in, what you might do. Now running that sim forward, and seeing what they do.
+
 ### Reading
 
 #### Critical theory
