@@ -80,6 +80,10 @@ Agree to support ongoing conversations between between the city government agenc
 
 > Agree to support Community Benefits Agreement work that leads to a legally binding contract giving community a voice; specifically between the city, local businesses and resident associations surrounding the Herman Kiefer Health Complex, such as West Grand Blvd. Collaborative and others likely to be most impacted by development, with Castellano Studios and any other interested parties.
 
+* NIT (Negative Income Tax) vs UBI (Unconditional Basic Income)
+
+[Negative Income Tax (NIT) and Unconditional Basic Income (UBI) What makes them the same and what makes them different?](http://www.scottsantens.com/negative-income-tax-nit-and-unconditional-basic-income-ubi-what-makes-them-the-same-and-what-makes-them-different)
+
 ### ...with every big data set, we need to ask which people are excluded. Which places are less visible? What happens if you live in the shadow of big data sets?
 [The following bullet points taken from The Hidden Biases in Big Data | Kate Crawford on Harvard Business Review](https://hbr.org/2013/04/the-hidden-biases-in-big-data)
 
