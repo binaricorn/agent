@@ -94,3 +94,11 @@ Agree to support ongoing conversations between between the city government agenc
 
 - We can move from the focus on merely “big” data towards something more three-dimensional: data with depth:
 > In the near term, data scientists should take a page from social scientists, who have a long history of asking where the data they’re working with comes from, what methods were used to gather and analyze it, and what cognitive biases they might bring to its interpretation (for more, see “Raw Data is an Oxymoron“). Longer term, we must ask how we can bring together big data approaches with small data studies — computational social science with traditional qualitative methods. We know that data insights can be found at multiple levels of granularity, and by combining methods such as ethnography with analytics, or conducting semi-structured interviews paired with information retrieval techniques, we can add depth to the data we collect. We get a much richer sense of the world when we ask people the why and the how not just the “how many”. This goes beyond merely conducting focus groups to confirm what you already want to see in a big data set. It means complementing data sources with rigorous qualitative research. Social science methodologies may make the challenge of understanding big data more complex, but they also bring context-awareness to our research to address serious signal problems.
+
+### Projects
+
+#### [Parable of the Polygons: A playable post on the shape of society | Project by Nicky Case](http://http://ncase.me/polygons/)
+
+#### [HOW TO SIMULATE THE UNIVERSE IN 134 EASY STEPS | Project by Nicky Case](http://ncase.me/OVC2016/)
+
+#### [Simulating the World in Emoji | Project by Nicky Case](http://ncase.me/simulating/) 
