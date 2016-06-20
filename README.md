@@ -57,6 +57,12 @@ What does nihilism and presentism have to do with all this?
 
 ### Experiments in planning
 
+#### Are jobs necessary?
+
+* Douglas Rushkoff in Throwing Rocks at the Google Bus:
+
+> In 2008, Utah instituted a four-day working week for public employees by offering them the opportunity to shift from five 8-hour days to four 10-hour days. Fifty percent of the 18,000 people who participated reported that they were more productive, while a full 80 percent asked to maintain the new schedule after the experiment was over, citing benefits to their relationships, families, and general well-being. The reduction in overtime payments and absenteeism saved the state $4 million and reduced carbon emissions by 400,000 metric tons that year.
+
 #### IDEAS City Detroit
 
 * [Can Artists Do Anything to Help Detroit? | Isaac Kaplan on Artsy](https://www.artsy.net/article/artsy-editorial-can-artists-actually-do-anything-to-help-detroit)
