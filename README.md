@@ -63,6 +63,8 @@ What does nihilism and presentism have to do with all this?
 
 > In 2008, Utah instituted a four-day working week for public employees by offering them the opportunity to shift from five 8-hour days to four 10-hour days. Fifty percent of the 18,000 people who participated reported that they were more productive, while a full 80 percent asked to maintain the new schedule after the experiment was over, citing benefits to their relationships, families, and general well-being. The reduction in overtime payments and absenteeism saved the state $4 million and reduced carbon emissions by 400,000 metric tons that year.
 
+Counter to that however, is evidence that emerged in 2011 when the state of Utah decided to end its "4/10" workweek when an audit showed an overestimation in savings. This example from Rushkoff failed to acknowledge the immediate consequences of the workweek reduction: almost a third of Utah residents wished public services were open and accessible Monday to Friday. And then there's the adjustments the public employees have to make once the experiment was over: their transportation and childcare costs may increase by 20% as a result. [Utah's Demise of the Four-Day Workweek | Heather Kerrigan on Governing](http://www.governing.com/columns/utahs-demise-of-the-four-day-work-week.html)
+
 #### IDEAS City Detroit
 
 * [Can Artists Do Anything to Help Detroit? | Isaac Kaplan on Artsy](https://www.artsy.net/article/artsy-editorial-can-artists-actually-do-anything-to-help-detroit)
