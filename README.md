@@ -94,6 +94,10 @@ Agree to support ongoing conversations between between the city government agenc
 
 [Negative Income Tax (NIT) and Unconditional Basic Income (UBI) What makes them the same and what makes them different?](http://www.scottsantens.com/negative-income-tax-nit-and-unconditional-basic-income-ubi-what-makes-them-the-same-and-what-makes-them-different)
 
+### Are we approaching a time where everything costs nothing because our technology is so advanced?
+
+* "Zero marginal cost society": [Capitalism is making way for the age of free | Jeremy Rifkin on The Guardian](https://www.theguardian.com/commentisfree/2014/mar/31/capitalism-age-of-free-internet-of-things-economic-shift)
+
 ### ...with every big data set, we need to ask which people are excluded. Which places are less visible? What happens if you live in the shadow of big data sets?
 [The following bullet points taken from The Hidden Biases in Big Data | Kate Crawford on Harvard Business Review](https://hbr.org/2013/04/the-hidden-biases-in-big-data)
 
