@@ -5,7 +5,7 @@ Francis Tseng's amazing [ML101 tutorial](https://github.com/frnsys/ml101/tree/ma
 ## DIRECTIONS FOR NEWCOMERS TO PYTHON:
 
 1. Open Terminal and install Python3 with Homebrew (package manager for OSX) in your home directory. 
-brew install python3
+		<brew install python3>
 
 2. cd into the ml101/altai/notebooks folder you cloned from Francis' repo.
 
