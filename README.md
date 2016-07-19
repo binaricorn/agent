@@ -1,3 +1,40 @@
+# First time Machine Learner?
+
+Francis Tseng's amazing [ML101 tutorial](https://github.com/frnsys/ml101/tree/master/altai) can help you get started. He goes through many topics and have made many insightful notes. This file is for people who don't fulfill the first prerequisite of having familiarity with Python (of which there are many steps to - first we've got to set up an optimum working environment.) This is my first time writing a setup tutorial so let me know if you have any comments/feedback.
+
+## DIRECTIONS FOR NEWCOMERS TO PYTHON:
+
+1. Open Terminal and install Python3 with Homebrew (package manager for OSX) in your home directory. 
+brew install python3
+
+2. cd into the ml101/altai/notebooks folder you cloned from Francis' repo.
+
+3. Install virtualenv. The virtual environment creates isolated Python environments for each of your projects. Consider this step to be best practice.
+sudo pip3 install virtualenv
+
+4. Create your virtualenv and call it "venv"
+virtualenv -p python3 venv
+
+5. Activate your virtualenv.  
+source venv/bin/activate
+After doing this, you will see (venv) preceeding each line in your Terminal output.
+
+6. Right now you are in ml101/altai/notebooks, cd ../ out of that folder into ml101/altai and install the requirements for each example. If you look in Finder, you'll see that there is a requirements.txt in the /altai folder
+pip install -r requirements.txt
+
+7. Run the iPython Jupyter Notebook (iPython is an interactive interface for Python that lets you work with Python faster) 
+jupyter notebook
+
+7a. If you were able to get the Notebook open yesterday, and tried running a cell, ie the first cell from 01_manual_fit, you may have noticed an error reading 'from lib import make_line'. That's because a dependency blessings was not right. You can use this command to correct this error, as well as other ones similar to this by installing the missing dependency in the /altai folder while you've got your virtualenv running. So the code will look something like this:
+(venv) Users-MacBook-Pro:altai mac$ pip3 install blessings
+
+~ Coding happily and you close the terminal/shut down your computer, etc. What now? ~
+
+To get everything running again, you have to reactivate the virtualenv for that window/tab/etc by doing:
+source venv/bin/activate 
+
+Then you can continue working with Notebook by typing jupyter notebook
+
 # Challenge of making work that's bigger than yourself
 
 After Francis and I spent a month making the [HOSNY](https://medium.com/dbrs-innovation-labs/humans-of-simulated-new-york-56f73ec1b0b3#.t37fi0g4q) project, "a participative agent-based economic simulation for speculating alternative economies", and decided to open up the simulation tools he made for the project to become a larger toolset and applying to the NEW Inc residency with it, I've come to realize that my inability to explain many parts of our project to be something we can leverage to make the project better.
