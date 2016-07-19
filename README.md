@@ -4,21 +4,25 @@ Francis Tseng's amazing [ML101 tutorial](https://github.com/frnsys/ml101/tree/ma
 
 ## DIRECTIONS FOR NEWCOMERS TO PYTHON:
 
-1. Open Terminal and install Python3 with Homebrew (package manager for OSX) in your home directory. 
+1. Launch Terminal and install Python3 with [Homebrew](http://brew.sh/) in your home directory. Homebrew is a package manager for OS X.
 
 ``brew install python3``
 
-2. cd into the ml101/altai/notebooks folder you cloned from Francis' repo.
+2. Navigate into the notebooks folder you cloned from the ml101 repo.
 
-3. Install virtualenv. The virtual environment creates isolated Python environments for each of your projects. Consider this step to be best practice.
-sudo pip3 install virtualenv
+``cd /your-directory-name/ml101/altai/notebooks``
 
-4. Create your virtualenv and call it "venv"
-virtualenv -p python3 venv
+3. Install the Python package virtualenv. The virtual environment creates isolated Python environments for each of your projects. Consider this step to be best practice.
 
-5. Activate your virtualenv.  
-source venv/bin/activate
-After doing this, you will see (venv) preceeding each line in your Terminal output.
+``sudo pip3 install virtualenv``
+
+4. Create an instance of your virtualenv and call it "venv"
+
+``virtualenv -p python3 venv``
+
+5. Activate venv. After doing this, you will see (venv) preceeding each line in your Terminal output.
+
+``source venv/bin/activate``
 
 6. Right now you are in ml101/altai/notebooks, cd ../ out of that folder into ml101/altai and install the requirements for each example. If you look in Finder, you'll see that there is a requirements.txt in the /altai folder
 pip install -r requirements.txt
