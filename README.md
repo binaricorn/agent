@@ -9,7 +9,7 @@ You'll need:
 * Python3: You will already have Python 2.7 on your computer but you'll want to use Python 3.5
 * Python module virtualenv: The virtual environment creates isolated Python environments for each of your projects. Consider this step to be best practice. Pip is a package manager for Python.
 
-
+* * *
 
 1. Launch Terminal and install Python3 with Homebrew.  
 ``brew install python3``
