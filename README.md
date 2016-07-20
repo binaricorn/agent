@@ -20,7 +20,7 @@ You'll need:
 2. Navigate into the notebooks folder.  
 ``cd /your-directory-name/ml101/altai/notebooks``
 
-3. Install the Python package virtualenv. Pip3 is Python3's package manager.
+3. Install the Python package virtualenv. Pip3 is Python3's package manager.  
 ``sudo pip3 install virtualenv``
 
 4. Create an instance of your virtualenv and call it "venv"  
