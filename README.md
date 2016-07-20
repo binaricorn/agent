@@ -24,17 +24,16 @@ Francis Tseng's amazing [ML101 tutorial](https://github.com/frnsys/ml101/tree/ma
 ``pip install -r requirements.txt``
 
 7. Run the iPython Jupyter Notebook. iPython is an interactive interface for Python that lets you work with Python faster. It is one of the dependencies specified in requirements.txt  
-``jupyter notebook``
-
+``jupyter notebook``  
 ![requirements](requirements.png)
 
-7a. If you were able to get the Notebook open yesterday, and tried running a cell, ie the first cell from 01_manual_fit, you may have noticed an error reading 'from lib import make_line'. That's because a dependency blessings was not right. You can use this command to correct this error, as well as other ones similar to this by installing the missing dependency in the /altai folder while you've got your virtualenv running. So the code will look something like this:  
-(venv) Users-MacBook-Pro:altai mac$ pip3 install blessings
+8. If you were able to get the Notebook open yesterday, and tried running a cell, ie the first cell from 01_manual_fit, you may have noticed an error reading 'from lib import make_line'. That's because a dependency blessings was not right. You can use this command to correct this error, as well as other ones similar to this by installing the missing dependency in the /altai folder while you've got your virtualenv running. So the code will look something like the following. When the dependency is installed, you can run Notebook again.  
+``(venv) Users-MacBook-Pro:altai mac$ pip3 install blessings``
 
-~ Coding happily and you close the terminal/shut down your computer, etc. What now? ~
+### ~ Coding happily and you close the terminal/shut down your computer, etc. What now? ~
 
-To get everything running again, you have to reactivate the virtualenv for that window/tab/etc by doing:
-source venv/bin/activate 
+To get everything running again, you have to reactivate the virtualenv for that window/tab/etc by doing:  
+``source venv/bin/activate``
 
 Then you can continue working with Notebook by typing jupyter notebook
 
