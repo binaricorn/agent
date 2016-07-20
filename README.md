@@ -6,7 +6,7 @@ This is a getting started guide for beginners to Python who want to run through 
 
 You'll need:
 * [Homebrew](http://brew.sh/): a package manager for OS X
-* Python3
+* Python3: You will already have Python 2.7 on your computer but you'll want to use Python 3.5
 * Python module virtualenv: The virtual environment creates isolated Python environments for each of your projects. Consider this step to be best practice. Pip is a package manager for Python.
 
 
@@ -20,7 +20,7 @@ You'll need:
 2. Navigate into the notebooks folder.  
 ``cd /your-directory-name/ml101/altai/notebooks``
 
-3. Install the Python package virtualenv.   
+3. Install the Python package virtualenv. Pip3 is Python3's package manager.
 ``sudo pip3 install virtualenv``
 
 4. Create an instance of your virtualenv and call it "venv"  
