@@ -4,8 +4,7 @@ Francis Tseng's amazing [ML101 tutorial](https://github.com/frnsys/ml101/tree/ma
 
 ## DIRECTIONS FOR NEWCOMERS TO PYTHON:
 
-1. Launch Terminal and install Python3 with [Homebrew](http://brew.sh/) in your home directory. Homebrew is a package manager for OS X.
-
+1. Launch Terminal and install Python3 with [Homebrew](http://brew.sh/) in your home directory. Homebrew is a package manager for OS X.  
 ``brew install python3``
 
 2. Navigate into the notebooks folder you cloned from the ml101 repo.
