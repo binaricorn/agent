@@ -48,6 +48,3 @@ Say you closed your Terminal tab or restarted your computer. To get started up a
 ``source venv/bin/activate``
 
 Then you can continue working with Notebook by typing jupyter notebook.
-
-### So about that homework
-
