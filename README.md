@@ -37,7 +37,7 @@ You'll need:
 ``jupyter notebook``  
 ![requirements](requirements.png)
 
-8. To run a Python cell in Jupyter (these are marked with green borders), ``hit shift + enter`` when tabbed into it. The blue cells are Markdown and usually used for instructions.
+8. To run a Python cell in Jupyter (these are marked with green borders), hit ``shift + enter`` when tabbed into it. The blue cells are Markdown and usually used for instructions.
 
 8. If you ever encounter an error when running cells, it could be because of a missing dependency. Use this command to install it in the /altair folder while you've got your virtualenv running. So the code will look something like the following. When the dependency is installed, you can run Notebook again.  
 ``(venv) Users-MacBook-Pro:altai mac$ pip3 install blessings``
