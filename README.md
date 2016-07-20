@@ -37,7 +37,9 @@ You'll need:
 ``jupyter notebook``  
 ![requirements](requirements.png)
 
-8. If you were able to get the Notebook open yesterday, and tried running a cell, ie the first cell from 01_manual_fit, you may have noticed an error reading 'from lib import make_line'. That's because a dependency blessings was missing. You can use this command to correct this error, as well as other ones similar to this by installing the missing dependency in the /altai folder while you've got your virtualenv running. So the code will look something like the following. When the dependency is installed, you can run Notebook again.  
+8. To run a Python cell in Jupyter (green border), hit shift + enter when tabbed into it. The blue cells are Markdown and usually used for instructions.
+
+8. If you ever encounter an error when running cells, it could be because of a missing dependency. Use this command to install it in the /altair folder while you've got your virtualenv running. So the code will look something like the following. When the dependency is installed, you can run Notebook again.  
 ``(venv) Users-MacBook-Pro:altai mac$ pip3 install blessings``
 
 ### Relaunching your environment
