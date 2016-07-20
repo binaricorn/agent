@@ -1,16 +1,24 @@
 # Getting started with ML101 
 
-Francis Tseng's amazing [ML101 tutorial](https://github.com/frnsys/ml101/tree/master/altai) can help you get started. He goes through many topics and have made many insightful notes. This file is for people who don't fulfill the first prerequisite of having familiarity with Python (of which there are many steps to - first we've got to set up an optimum working environment.) This is my first time writing a setup tutorial so let me know if you have any comments/feedback.
+This is a getting started guide for beginners to Python who want to run through Francis Tseng's amazing [ML101 workshop notes](https://github.com/frnsys/ml101/tree/master/altai). 
 
 ## Never ran a line of Python before? No problem.
 
-1. Launch Terminal and install Python3 with [Homebrew](http://brew.sh/) in your home directory. Homebrew is a package manager for OS X.  
+You'll need:
+* [Homebrew](http://brew.sh/): a package manager for OS X
+* Python3
+* Python module virtualenv: The virtual environment creates isolated Python environments for each of your projects. Consider this step to be best practice. Pip is a package manager for Python.
+
+1. Launch Terminal and install Python3 with Homebrew.  
 ``brew install python3``
 
-2. Navigate into the notebooks folder you cloned from the ml101 repo.  
+2. Clone ml101 onto your local machine.  
+``git clone https://github.com/frnsys/ml101.git``
+
+2. Navigate into the notebooks folder.  
 ``cd /your-directory-name/ml101/altai/notebooks``
 
-3. Install the Python package virtualenv. The virtual environment creates isolated Python environments for each of your projects. Consider this step to be best practice. Pip is a package manager for Python.  
+3. Install the Python package virtualenv.   
 ``sudo pip3 install virtualenv``
 
 4. Create an instance of your virtualenv and call it "venv"  
@@ -23,7 +31,7 @@ Francis Tseng's amazing [ML101 tutorial](https://github.com/frnsys/ml101/tree/ma
 ``cd ../``  
 ``pip install -r requirements.txt``
 
-7. Run the iPython Jupyter Notebook. iPython is an interactive interface for Python that lets you work with Python faster. It is one of the dependencies specified in requirements.txt  
+7. Run the iPython Jupyter Notebook. It is one of the dependencies specified in requirements.txt and was installed when you ran the previous command.  
 ``jupyter notebook``  
 ![requirements](requirements.png)
 

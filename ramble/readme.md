@@ -1,3 +1,5 @@
+Disorganized thoughts about simulations, systems, etc. 
+
 # Challenge of making work that's bigger than yourself
 
 After Francis and I spent a month making the [HOSNY](https://medium.com/dbrs-innovation-labs/humans-of-simulated-new-york-56f73ec1b0b3#.t37fi0g4q) project, "a participative agent-based economic simulation for speculating alternative economies", and decided to open up the simulation tools he made for the project to become a larger toolset and applying to the NEW Inc residency with it, I've come to realize that my inability to explain many parts of our project to be something we can leverage to make the project better.
