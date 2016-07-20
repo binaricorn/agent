@@ -7,7 +7,7 @@ This is a getting started guide for beginners to Python who want to run through 
 You'll need:
 * [Homebrew](http://brew.sh/): a package manager for OS X
 * Python3: You will already have Python 2.7 on your computer but you'll want to use Python 3.5
-* Python module virtualenv: The virtual environment creates isolated Python environments for each of your projects. Consider this step to be best practice. Pip is a package manager for Python.
+* Python module virtualenv: The virtual environment creates isolated Python environments for each of your projects. Consider this step to be best practice. 
 
 * * *
 
