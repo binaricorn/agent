@@ -47,4 +47,4 @@ You'll need:
 Say you closed your Terminal tab or restarted your computer. To get started up again, just navigate to the /ml101/altai/notebooks/ folder and reactivate the virtualenv.  
 ``source venv/bin/activate``
 
-Then you can continue working with Notebook by typing jupyter notebook.
+Then you can continue working with Notebook by typing ``jupyter notebook.``
