@@ -1,8 +1,8 @@
-# First time Machine Learner?
+# Getting started with ML101 
 
 Francis Tseng's amazing [ML101 tutorial](https://github.com/frnsys/ml101/tree/master/altai) can help you get started. He goes through many topics and have made many insightful notes. This file is for people who don't fulfill the first prerequisite of having familiarity with Python (of which there are many steps to - first we've got to set up an optimum working environment.) This is my first time writing a setup tutorial so let me know if you have any comments/feedback.
 
-## DIRECTIONS FOR NEWCOMERS TO PYTHON:
+## Never ran a line of Python before? No problem.
 
 1. Launch Terminal and install Python3 with [Homebrew](http://brew.sh/) in your home directory. Homebrew is a package manager for OS X.  
 ``brew install python3``
@@ -30,12 +30,12 @@ Francis Tseng's amazing [ML101 tutorial](https://github.com/frnsys/ml101/tree/ma
 8. If you were able to get the Notebook open yesterday, and tried running a cell, ie the first cell from 01_manual_fit, you may have noticed an error reading 'from lib import make_line'. That's because a dependency blessings was not right. You can use this command to correct this error, as well as other ones similar to this by installing the missing dependency in the /altai folder while you've got your virtualenv running. So the code will look something like the following. When the dependency is installed, you can run Notebook again.  
 ``(venv) Users-MacBook-Pro:altai mac$ pip3 install blessings``
 
-### ~ Coding happily and you close the terminal/shut down your computer, etc. What now? ~
+### Relaunching your environment
 
-To get everything running again, you have to reactivate the virtualenv for that window/tab/etc by doing:  
+Say you closed your Terminal tab or restarted your computer. To get started up again, just navigate to the /ml101/altai/notebooks/ folder and reactivate the virtualenv.  
 ``source venv/bin/activate``
 
-Then you can continue working with Notebook by typing jupyter notebook
+Then you can continue working with Notebook by typing jupyter notebook.
 
 # Challenge of making work that's bigger than yourself
 
