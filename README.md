@@ -1,6 +1,6 @@
 # Getting started with ML101 
 
-This is a getting started guide for beginners to Python who want to run through Francis Tseng's amazing [ML101 workshop notes](https://github.com/frnsys/ml101/tree/master/altai). 
+This is a getting started guide for beginners to Python who want to run through Francis Tseng's [ML101 workshop notes](https://github.com/frnsys/ml101). 
 
 ## Never ran a line of Python before? No problem.
 
