@@ -59,6 +59,14 @@ What does nihilism and presentism have to do with all this?
 
 ### Experiments in planning
 
+#### Workshops and participatory design examples
+
+* Design, When Everybody Designs
+
+* [How Can Cultural Institutions Support Communities](https://www.brooklynmuseum.org/calendar/event/brooklyn_community_forum_antigentrification_and_displacement_july_2016/)
+
+> In the first part of this workshop we will examine the needs of the community in relation to what the museum has to offer. Then in the second half we will examine different ways in which cultural institutions, like the Brooklyn Museum, have supported their communities. You are also invited to bring your ideas and think critically about the possibilities of creating a museum for the people.
+
 #### [TimeBanks in NYC](http://www.nyc.gov/html/timebanks/downloads/pdf/tb_online_resources_list.pdf)
 
 #### Are jobs necessary?
